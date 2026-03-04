@@ -118,11 +118,7 @@ Se analiza especialmente el comportamiento en clases minoritarias.
 * Diferencia entre clasificación binaria y multiclase.
 * Impacto del desbalance de clases en la interpretación de métricas.
 * Interpretación geométrica del centroide de clase en espacios de 784 dimensiones.
-  
----
 
-Este proyecto está enfocado en comprender los fundamentos del machine learning aplicado a datos reales, priorizando la interpretación de resultados sobre la complejidad del modelo.
+  ---
+  El objetivo es desarrollar una APK que reconozca digitos por fotografía. 
 
----
-
-Si quieres, puedo adaptarlo a un estilo más orientado a reclutadores o más técnico tipo portafolio profesional.
